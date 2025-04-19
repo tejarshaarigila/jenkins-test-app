@@ -8,6 +8,6 @@ public class WelcomeController {
 
     @GetMapping("/")
     public String welcome() {
-        return "Welcome To Jenkins - v1";
+        return "Welcome To Jenkins - v2";
     }
 }
